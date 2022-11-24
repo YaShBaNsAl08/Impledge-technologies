@@ -1,3 +1,5 @@
+//Without using file handling
+
 #include <bits/stdc++.h>
 using namespace std;
 struct compare {
